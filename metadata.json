@@ -1,0 +1,5 @@
+{
+  "name": "Slam Delay Analyzer",
+  "description": "A specialized tool for World of Warcraft warriors to analyze Slam timing efficiency relative to melee swings from combat logs.",
+  "requestFramePermissions": []
+}
